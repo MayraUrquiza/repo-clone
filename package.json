@@ -1,0 +1,17 @@
+{
+  "name": "healthcheckrulesdownloadrepo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "rand-token": "^1.0.1"
+  }
+}
